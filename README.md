@@ -1,6 +1,6 @@
 # TwitterHybridClassifier
 
- - Authors: Akhil Sharma
+ - Authors: Vishnu Nadimpalli, Akhil Sharma
  - Date: 16/05/17
 
 These python scripts provide the TwitterClassifier I used for my B.tech final year project
